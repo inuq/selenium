@@ -1,0 +1,14 @@
+{
+  "capabilities":
+      [
+        {
+          "browserName": "chrome",
+          "maxInstances": 5,
+          "version": "latest",
+          "seleniumProtocol": "WebDriver"
+        }
+      ],
+  "maxSession":5,
+  "port":5555,
+  "register":true
+}
